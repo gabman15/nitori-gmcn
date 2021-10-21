@@ -6,9 +6,29 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Home</title>
   </head>
   <body>
-    <h1>{{ site.title }}</h1>
+    <div class="header">{{ site.title }}</div>
+    <div class="footer">
+      <p class="footer-text-left">
+        <a class="icon-style" href="https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github"></i>
+        </a>
+        <a href="https://myanimelist.net/profile/{{ site.mal_username }}">
+          <img class="icon-style" src="images/mal.png"></img>
+        </a>
+      </p>
+      <p class="footer-text-center">
+        Socials
+      </p>
+      <!--<span style="float:left">
+        
+      </span>
+      <span style="text-align: center"> Socials </span>-->
+    </div>
+    
   </body>
 </html>
