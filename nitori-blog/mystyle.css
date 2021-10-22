@@ -34,7 +34,7 @@ body {
     position: absolute;
     left: 0px;
     bottom: 0px;
-    word-spacing: 20px;
+
 }
 
 
@@ -45,10 +45,16 @@ body {
 }
 
 .icon-style {
-    color: #00FFFF;
+    color: #FFFFFF;
     height:40px;
     margin-left:20px;
     margin-top: 5px;
+    text-decoration:none;
+}
+
+.image-icon-style {
+    height: 30px;
+    vertical-align:bottom;
     text-decoration:none;
 }
 
