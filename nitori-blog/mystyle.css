@@ -9,15 +9,23 @@ body {
     font-size: 35px;
 }
 
+.mainicon {
+    background-color: white;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    left: calc(50%-50px);
+    top: calc(50%-50px);
+}
 .footer{
     background-color: #5b6151;
     color: #00FFFF;
-    position:fixed;
-    bottom:0;
-    left:0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
     width: 100%;
-    height:90px;
-    display:relative;
+    height: 90px;
+    display: relative;
 }
 
 
@@ -39,9 +47,12 @@ body {
 
 
 .footer-text-right {
+    font-size: 30px;
     padding-right:40px;
     margin-top:20px;
-    float:right;
+    position: absolute;
+    right:0px;
+    bottom:0px;
 }
 
 .icon-style {
