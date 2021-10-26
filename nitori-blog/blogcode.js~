@@ -1,0 +1,10 @@
+$(function() {
+    $("#badApple").hover(
+        function() {
+            $(this).attr("src", "images/badapple.gif");
+        },
+        function() {
+            $(this).attr("src", "images/badapple.jpg");
+        }                         
+    );                  
+});

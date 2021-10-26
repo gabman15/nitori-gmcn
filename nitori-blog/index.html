@@ -9,25 +9,28 @@
     <link rel="stylesheet" type="text/css" href="mystyle.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="blogcode.js"></script>
     <title>Home</title>
   </head>
   <body>
     <div class="header">{{ site.title }}</div>
-    <img id="badApple" src="images/badapple.jpg" />
-    <script type="text/javascript">
-      $(function() {
-          $("#badApple").hover(
-              function() {
-                  $(this).attr("src", "images/badapple.gif");
-              },
-              function() {
-                  $(this).attr("src", "images/badapple.jpg");
-              }                         
-          );                  
-      });
-    </script>
 
-    <div class="mainicon">foo</div>
+    <div class="mainicon">
+      <img onclick="toggleBlocks()" id="nitoriIcon" src="images/nitori.jpg">
+      <div id="badAppleBlock">
+        <img id="badApple" src="images/badapple.jpg">
+        <div class="titleText" id="badAppleTitle">Bad Apple Project</div>
+      </div>
+      <div id="leadingEdgeBlock">
+        <img class="tabImg" id="leadingEdge" src="images/leadingedge.jpg" />
+        <div class="titleText" id="leadingEdgeTitle">Keyboards/Restorations</div>
+      </div>
+      <div id="programmingBlock">
+        <img class="tabImg" id="programming" src="images/solariserror.png" />
+        <div class="titleText" id="programmingTitle">Programming Projects</div>
+      </div>
+    </div>
+    
     <div class="footer">
       <p class="footer-text-left">
         <a class="icon-style" href="https://github.com/{{ site.github_username }}">
