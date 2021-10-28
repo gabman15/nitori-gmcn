@@ -10,13 +10,10 @@ $(function() {
 });
 
 function toggleBlocks() {
-    var blocks = [document.getElementById("badAppleBlock"), document.getElementById("leadingEdgeBlock"),
-             document.getElementById("programmingBlock")];
+    var blocks = ["#badAppleBlock", "#leadingEdgeBlock", "#programmingBlock"];
     for (let x = 0; x < blocks.length; x++) {
-        if (blocks[x].style.display === "none") {
-            blocks[x].style.display = "block";
-        } else {
-            blocks[x].style.display = "none";
-        }
+        $(blocks[x]).toggle("slide");
     }
 }
+
+
