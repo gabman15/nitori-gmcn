@@ -6,14 +6,16 @@ $(function() {
         function() {
             $(this).attr("src", "images/badapple.jpg");
         }                         
-    );                  
+    );
+    $(".mainButtonIcon").click(function() {
+        var blocks = ["#badAppleBlock", "#leadingEdgeBlock", "#programmingBlock"];
+        
+        for (var x=0; x < blocks.length; x++) {
+            $(blocks[x]).toggle(750);
+        }
+    });
 });
 
-function toggleBlocks() {
-    var blocks = ["#badAppleBlock", "#leadingEdgeBlock", "#programmingBlock"];
-    for (let x = 0; x < blocks.length; x++) {
-        $(blocks[x]).toggle("slide");
-    }
-}
+
 
 

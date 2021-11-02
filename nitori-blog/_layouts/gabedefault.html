@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="blogcode.js"></script>
+    <title>Home</title>
+  </head>
+  <body>
+    <a href="/"><div class="header">{{ site.title }}</div></a>
+    <hr style="width:100%", size="3", color=white>
+    {{ content }}
+    <div class="footer">
+      <p class="footer-text-left">
+        <a class="icon-style" href="https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github"></i>
+        </a>
+        <a class="icon-style" href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a class="icon-style" href="https://myanimelist.net/profile/{{ site.mal_username }}">
+          <img class="image-icon-style" src="images/mal.png"></img>
+        </a>
+        <a class="icon-style" href="https://myfigurecollection.net/profile/{{ site.mal_username }}">
+          <img class="image-icon-style" src="images/mfc.png"></img>
+        </a>
+      </p>
+      <p class="footer-text-center">
+        Socials
+      </p>
+      <p class="footer-text-right">
+        <a href="about">About Me</a>
+      </p>
+      <!--<span style="float:left">
+        
+      </span>
+      <span style="text-align: center"> Socials </span>-->
+    </div>
+    
+  </body>
+</html>

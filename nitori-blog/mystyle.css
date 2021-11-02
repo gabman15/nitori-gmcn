@@ -1,6 +1,17 @@
 body {
 	background-color:#000000;
     color:#FFFFFF;
+    font-family: "FreeSans";
+}
+
+@font-face {
+    font-family: "FreeSans";
+    src: url("fonts/FreeSans.ttf");
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
 }
 
 .header {
@@ -9,7 +20,13 @@ body {
     font-size: 35px;
 }
 
-.mainicon {
+.pageTitle {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.mainButton {
     color: black;
 
     position: fixed;
@@ -19,7 +36,7 @@ body {
     top: calc(50% - 50px);
 }
 
-#nitoriIcon {
+.mainButtonIcon {
     width: 100px;
     height: 100px;
     border-radius: 30px;
@@ -30,72 +47,76 @@ body {
     width: 300px;
     color:#00FFFF;
     text-shadow: black 1px 1px 2px;
-    top: 20px;
 }
 
-
-#badAppleBlock {
+.mainBlock {
     width: 300px;
     height: 150px;
+    display: none;
+    overflow: hidden;
+}
+
+.mainBlockImage {
+    width: 300px;
+    height: 150px;
+    border-radius: 30px;
+}
+    
+#badAppleBlock {
     position: absolute;
     right: 150px;
     bottom: 75px;
-    display: none;
 }
 
 #badApple {
     position: absolute;
-    width: 300px;
-    height: 150px;
-    border-radius: 30px;
+    left: 0px;
+    top: 0px;
 }
 
 #badAppleTitle {
     position: absolute;
-    font-size: 38px;
+    font-size: 37px;
+    left: 0px;
+    top: 20px;
 }
 
 #leadingEdgeBlock {
-    width: 300px;
-    height: 150px; 
     position: absolute;
     left: 150px;
     bottom: 75px;
-    display: none;
 }
 
 #leadingEdge {
     position: absolute;
-    width: 300px;
-    height: 150px;
-    border-radius: 30px;
+    right: 0px;
+    top: 0px;
 }
 
 #leadingEdgeTitle {
     position: absolute;
     font-size: 28px;
+    right: 0px;
+    top: 20px;
 }
 
 #programmingBlock {
-    width: 300px;
-    height: 150px; 
     position: absolute;
     right: 150px;
     top: 75px;
-    display: none;
 }
 
 #programming {
     position: absolute;
-    width: 300px;
-    height: 150px;
-    border-radius: 30px;
+    left: 0px;
+    bottom: 0px;
 }
 
 #programmingTitle {
     position: absolute;
     font-size: 28px;
-    text-shadow: black 1px 1px 2px;
+    left: 0px;
+    bottom: 100px;
 }
 
 .footer{
