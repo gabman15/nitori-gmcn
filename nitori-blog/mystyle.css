@@ -188,7 +188,7 @@ a.menu:hover {
     flex-wrap: wrap;
     -webkit-justify-content: space-around; /* Safari 6.1+ */    
     justify-content: space-around;
-    margin-bottom: 100px;
+    /*    margin-bottom: 100px;*/
 }
 
 .container div {
