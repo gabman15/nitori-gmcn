@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/mystyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="/blogcode.js"></script>
+    <title>Home</title>
+  </head>
+  <body>
+    <a href="/"><div class="header">Gabe Blog</div></a>
+    <hr style="width:100%", size="3", color=white>
+    <div style="margin-bottom:100px"><p><span style="font-size:35px">Apple Extended Keyboard II</span></p>
+
+<p>Manufacturer: Apple and Alps</p>
+
+<p>Switches: Cream damped Alps</p>
+
+<p>Date: 1990-1995</p>
+
+<p>Origin: A keyboard that was shipped with Apple Macintosh computers in the
+early 1990s. The last mechanical keyboard produced by Apple (and the end of competent apple products)</p>
+
+<p><img src="/images/aek2/aek2.jpg" alt="aek2" width="50%" /></p>
+
+<p><img src="/images/aek2/aek2-1.jpg" alt="creamalps" width="48%" />
+<img src="/images/aek2/aek2-3.jpg" alt="aekpcb" width="48%" style="float:right" /></p>
+
+<p><span style="font-size:35px">Restoration Information</span></p>
+
+<p>Bought this board from some guy on Facebook Marketplace who had been holding it in storage.</p>
+
+<p>The interior of the board is filthy!</p>
+
+<p><img src="/images/aek2/aek2-2.jpg" alt="aek2inside" width="50%" /></p>
+
+<p>Conversion time!</p>
+
+<p>Unfortunately this was one of my many early projects that led to failure.
+The most important thing I want to stress with these conversions is to attempt
+to not change any of the internals as much as possible. My ideal conversion
+would be that if I were to get the original machine a keyboard came with, I
+would still be able to use the same keyboard.</p>
+
+<p>Unfortunately I didn’t have the same mindset as I now do so I attempted some
+very janky conversion to try and shove a microcontroller into the board by
+chopping off the adb port board</p>
+
+<p><img src="/images/aek2/aek2-4.jpg" alt="aek2adb" width="50%" />
+(not my board)</p>
+
+<p>and soldering a pro micro to the wires in that gray cable as seen in the picture.</p>
+
+<p>This did not work at all. The wire wouldn’t let me separate each wire individually very well.
+I decided to just solder wires to the solder points on the board. I messed up this solder job too.
+After many attempts. I put arduino wires into the other adb connector which makes much more sense.
+However even after flashing the soarer’s firmware, it didn’t send anything. I
+have a bit of a fear that I may have either put a wire in wrong or messed up
+the soldering and shorted out a chip or something.</p>
+
+<p>This is where the restoration currently stands. A mangled pcb with bad soldering
+and a chopped wire. My current plans going forward are to either debug the pcb,
+checking if there are shorted pins or broken traces or to replace the pcb
+entirely with kb-elmo’s
+<a href="https://github.com/kb-elmo/aek2_usb"><span style="color:#7b9cc9">AEK II USB replacement board</span></a>.
+I’d prefer if I could use the same pcb so that it would still be adb compatible,
+however if the pcb really is broken then this is better than nothing.</p>
+
+</div>
+    <div class="footer">
+      <p class="footer-text-left">
+        <a class="icon-style" href="https://github.com/gabman15">
+          <i class="fa fa-github"></i>
+        </a>
+        <a class="icon-style" href="https://twitter.com/gabman151">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a class="icon-style" href="https://myanimelist.net/profile/gabman15">
+          <img class="image-icon-style" src="/images/mal.png"></img>
+        </a>
+        <a class="icon-style" href="https://myfigurecollection.net/profile/gabman15">
+          <img class="image-icon-style" src="/images/mfc.png"></img>
+        </a>
+      </p>
+      <p class="footer-text-center">
+        Socials
+      </p>
+      <p class="footer-text-right">
+        <a href="/about">About Me</a>
+      </p>
+      <!--<span style="float:left">
+        
+      </span>
+      <span style="text-align: center"> Socials </span>-->
+    </div>
+    
+  </body>
+</html>

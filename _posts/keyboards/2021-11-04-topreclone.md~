@@ -1,0 +1,26 @@
+---
+layout: gabedefault
+title: "ABKO K935P V2"
+image: "images/topreclone-icon.jpg"
+categories: keyboards
+---
+<span style="font-size:35px">{{ page.title }}</span>
+
+Switches: Mint Holy Pandas (Lubed with Tribosys 3204)
+
+Date: 2019
+
+Origin: The first mechanical keyboard I ever built
+
+Keycaps: SA Carbon + Novelties
+
+Case: Tofu 60% Aluminum Black Case
+
+Plate: Aluminum Plate
+
+Stabs: Cherry Screw-in Stabilizers (Clipped and Lubed with Tribosys 3204)
+
+Deskmat: Future Funk Deskmat
+
+<img src="/images/tofu60.jpg" alt="Tofu 60" width="50%"/>
+
