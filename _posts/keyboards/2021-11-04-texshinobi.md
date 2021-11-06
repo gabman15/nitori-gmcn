@@ -12,5 +12,5 @@ Switches: Gateron Yellows (Lubed with GPL 205g0)
 
 Deskmat: Future Funk Deskmat
 
-<img src="/images/texshinobi.jpg" alt="texshinobi" width="50%"/>
+<img src="{{ site.baseurl }}images/texshinobi.jpg" alt="texshinobi" width="50%"/>
 

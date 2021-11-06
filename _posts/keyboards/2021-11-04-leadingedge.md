@@ -14,7 +14,7 @@ Date: 1985-1989
 
 Origin: The keyboard shipped with the [<span style="color:#7b9cc9;">Leading Edge Model D</span>](https://en.wikipedia.org/wiki/Leading_Edge_Model_D) IBM clone computer.
 
-![Leading Edge DC-2014](/images/leadingedge.jpg)
+![Leading Edge DC-2014]({{ site.baseurl }}images/leadingedge.jpg)
 
 <span style="font-size:35px">Restoration Information</span>
 
@@ -27,7 +27,7 @@ changed hex file.
 Solder the pro micro to a breakout midi connector and plugged it in and it just works!
 
 <video width="320" height="240" controls muted>
-  <source src="/images/leadingedgeconvert.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}images/leadingedgeconvert.mp4" type="video/mp4">
   Your browser does not support the video tag. :(
 </video>
 
