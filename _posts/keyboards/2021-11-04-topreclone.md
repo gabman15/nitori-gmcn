@@ -16,10 +16,10 @@ Origin: Korean produced topre clone keyboard
 
 Keycaps: GMK Camping R2
 
-<img src="{{ site.baseurl }}images/topreclone.jpg" alt="topreclone" width="50%"/>
+<img src="{{ site.baseurl }}/images/topreclone.jpg" alt="topreclone" width="50%"/>
 
-<img src="{{ site.baseurl }}images/topreclone-1.jpg" alt="topreclone1" width="48%"/>
-<img src="{{ site.baseurl }}images/topreclone-2.jpg" style="float:right" alt="topreclone" width="48%"/>
+<img src="{{ site.baseurl }}/images/topreclone-1.jpg" alt="topreclone1" width="48%"/>
+<img src="{{ site.baseurl }}/images/topreclone-2.jpg" style="float:right" alt="topreclone" width="48%"/>
 
 Usb protocol so no conversion necessary.
 
