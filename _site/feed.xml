@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/nitori-gmcn/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/nitori-gmcn/" rel="alternate" type="text/html" /><updated>2021-11-06T15:01:13-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/feed.xml</id><title type="html">Gabe Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Apple Extended Keyboard II</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/aek2.html" rel="alternate" type="text/html" title="Apple Extended Keyboard II" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/aek2</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/aek2.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Apple Extended Keyboard II&lt;/span&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/nitori-gmcn/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/nitori-gmcn/" rel="alternate" type="text/html" /><updated>2021-11-09T11:14:18-05:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/feed.xml</id><title type="html">Gabe Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Apple Extended Keyboard II</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/aek2.html" rel="alternate" type="text/html" title="Apple Extended Keyboard II" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/aek2</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/aek2.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Apple Extended Keyboard II&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Manufacturer: Apple and Alps&lt;/p&gt;
 
@@ -63,7 +63,7 @@ however if the pcb really is broken then this is better than nothing.&lt;/p&gt;<
 &lt;p&gt;Origin: A Focus keyboard with a built in calculator module and
 programmable function keys.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/focusfk9000.jpg&quot; alt=&quot;fk9000&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/focusfk9000.jpg&quot; alt=&quot;fk9000&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Restoration Information&lt;/span&gt;&lt;/p&gt;
 
@@ -79,9 +79,9 @@ a nice converter box before I try to convert any of these XT keyboards.&lt;/p&gt
 appears to be a computer system that would take in typed paper and read the typed
 words into memory.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/intelligentscanningsystem4000.jpg&quot; alt=&quot;kurzweil4000&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/intelligentscanningsystem4000.jpg&quot; alt=&quot;kurzweil4000&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/intelligentscanningsystem4000-1.jpg&quot; alt=&quot;kurzweil4000-switches&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/intelligentscanningsystem4000-1.jpg&quot; alt=&quot;kurzweil4000-switches&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Restoration Information&lt;/span&gt;&lt;/p&gt;
 
@@ -95,9 +95,9 @@ Here are all the interesting documents about the device I have found,&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.digibarn.com/collections/systems/kurzweil-4000/index.html&quot;&gt;&lt;span style=&quot;color:#7b9cc9&quot;&gt;digibarn’s gallery&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/kurzweil4000ad.pdf&quot;&gt;&lt;span style=&quot;color:#7b9cc9&quot;&gt;Kurzweil 4000 Ad&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/nitori-gmcn/images/kurzweil4000ad.pdf&quot;&gt;&lt;span style=&quot;color:#7b9cc9&quot;&gt;Kurzweil 4000 Ad&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/kurzweil4000artscan.pdf&quot;&gt;&lt;span style=&quot;color:#7b9cc9&quot;&gt;Kurzweil 4000 Art Scan&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/nitori-gmcn/images/kurzweil4000artscan.pdf&quot;&gt;&lt;span style=&quot;color:#7b9cc9&quot;&gt;Kurzweil 4000 Art Scan&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I haven’t found any manuals for the keyboard interface, and I believe the
 keyboard is set up in a way that it requires all the processing for the key
@@ -113,7 +113,7 @@ tinkering with it yet but that’s where the conversion stands for now.&lt;/p&gt
 
 &lt;p&gt;Origin: The keyboard shipped with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Leading_Edge_Model_D&quot;&gt;&lt;span style=&quot;color:#7b9cc9;&quot;&gt;Leading Edge Model D&lt;/span&gt;&lt;/a&gt; IBM clone computer.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/leadingedge.jpg&quot; alt=&quot;Leading Edge DC-2014&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/leadingedge.jpg&quot; alt=&quot;Leading Edge DC-2014&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Restoration Information&lt;/span&gt;&lt;/p&gt;
 
@@ -126,7 +126,7 @@ changed hex file.&lt;/p&gt;
 &lt;p&gt;Solder the pro micro to a breakout midi connector and plugged it in and it just works!&lt;/p&gt;
 
 &lt;video width=&quot;320&quot; height=&quot;240&quot; controls=&quot;&quot; muted=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/leadingedgeconvert.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;/nitori-gmcn/images/leadingedgeconvert.mp4&quot; type=&quot;video/mp4&quot; /&gt;
   Your browser does not support the video tag. :(
 &lt;/video&gt;
 
@@ -147,7 +147,7 @@ layout became the industry standard.&lt;/p&gt;
 
 &lt;p&gt;Converted to usb by seller on mechmarket.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/modelm.jpg&quot; alt=&quot;modelm&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">IBM Model M</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/modelm-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/modelm-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">NMB RT-101 ANSI</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/rt101.html" rel="alternate" type="text/html" title="NMB RT-101 ANSI" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/rt101</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/rt101.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;NMB RT-101 ANSI&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/modelm.jpg&quot; alt=&quot;modelm&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">IBM Model M</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/modelm-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/modelm-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">NMB RT-101 ANSI</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/rt101.html" rel="alternate" type="text/html" title="NMB RT-101 ANSI" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/rt101</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/rt101.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;NMB RT-101 ANSI&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Manufacturer: NMB&lt;/p&gt;
 
@@ -159,9 +159,9 @@ layout became the industry standard.&lt;/p&gt;
 very interesting series of switches (dubbed the Space Invaders by the Mechanical
 Keyboards community due to their distinctive shape).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/spaceinvaders.jpg&quot; alt=&quot;spaceinvaders&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/spaceinvaders.jpg&quot; alt=&quot;spaceinvaders&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/spaceinvaders-1.jpg&quot; alt=&quot;spaceinvaders-switch&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/spaceinvaders-1.jpg&quot; alt=&quot;spaceinvaders-switch&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PS/2 protocol so no conversion necessary. However it could potentially use
 some minor cleaning.&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">NMB RT-101 ANSI</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/spaceinvaders-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/spaceinvaders-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TEX Shinobi</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/texshinobi.html" rel="alternate" type="text/html" title="TEX Shinobi" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/texshinobi</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/texshinobi.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;TEX Shinobi&lt;/span&gt;&lt;/p&gt;
@@ -172,7 +172,7 @@ some minor cleaning.&lt;/p&gt;</content><author><name></name></author><category 
 
 &lt;p&gt;Deskmat: Future Funk Deskmat&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/texshinobi.jpg&quot; alt=&quot;texshinobi&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">TEX Shinobi</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/texshinobi-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/texshinobi-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tofu60 DZ60RGB HS</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/tofu60.html" rel="alternate" type="text/html" title="Tofu60 DZ60RGB HS" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/tofu60</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/tofu60.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Tofu60 DZ60RGB HS&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/texshinobi.jpg&quot; alt=&quot;texshinobi&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">TEX Shinobi</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/texshinobi-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/texshinobi-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tofu60 DZ60RGB HS</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/tofu60.html" rel="alternate" type="text/html" title="Tofu60 DZ60RGB HS" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/tofu60</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/tofu60.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;Tofu60 DZ60RGB HS&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Switches: Mint Holy Pandas (Lubed with Tribosys 3204)&lt;/p&gt;
 
@@ -190,7 +190,7 @@ some minor cleaning.&lt;/p&gt;</content><author><name></name></author><category 
 
 &lt;p&gt;Deskmat: Future Funk Deskmat&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/tofu60.jpg&quot; alt=&quot;Tofu 60&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">Tofu60 DZ60RGB HS</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/tofu60-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/tofu60-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ABKO K935P V2</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/topreclone.html" rel="alternate" type="text/html" title="ABKO K935P V2" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/topreclone</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/topreclone.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;ABKO K935P V2&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/tofu60.jpg&quot; alt=&quot;Tofu 60&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">Tofu60 DZ60RGB HS</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/tofu60-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/tofu60-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ABKO K935P V2</title><link href="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/topreclone.html" rel="alternate" type="text/html" title="ABKO K935P V2" /><published>2021-11-04T00:00:00-04:00</published><updated>2021-11-04T00:00:00-04:00</updated><id>http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/topreclone</id><content type="html" xml:base="http://0.0.0.0:4000/nitori-gmcn/keyboards/2021/11/04/topreclone.html">&lt;p&gt;&lt;span style=&quot;font-size:35px&quot;&gt;ABKO K935P V2&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Manufacturer: ABKO&lt;/p&gt;
 
@@ -202,10 +202,10 @@ some minor cleaning.&lt;/p&gt;</content><author><name></name></author><category 
 
 &lt;p&gt;Keycaps: GMK Camping R2&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/topreclone.jpg&quot; alt=&quot;topreclone&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/topreclone.jpg&quot; alt=&quot;topreclone&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/topreclone-1.jpg&quot; alt=&quot;topreclone1&quot; width=&quot;48%&quot; /&gt;
-&lt;img src=&quot;/images/topreclone-2.jpg&quot; style=&quot;float:right&quot; alt=&quot;topreclone&quot; width=&quot;48%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/topreclone-1.jpg&quot; alt=&quot;topreclone1&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/nitori-gmcn/images/topreclone-2.jpg&quot; style=&quot;float:right&quot; alt=&quot;topreclone&quot; width=&quot;48%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Usb protocol so no conversion necessary.&lt;/p&gt;
 
@@ -227,4 +227,4 @@ some minor cleaning.&lt;/p&gt;</content><author><name></name></author><category 
 
 &lt;p&gt;Deskmat: Future Funk Deskmat&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/tofu60.jpg&quot; alt=&quot;Tofu 60&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">Wyse WY-50</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/wy50-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/wy50-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/nitori-gmcn/images/tofu60.jpg&quot; alt=&quot;Tofu 60&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="keyboards" /><summary type="html">Wyse WY-50</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nitori-gmcn/images/wy50-icon.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/nitori-gmcn/images/wy50-icon.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
